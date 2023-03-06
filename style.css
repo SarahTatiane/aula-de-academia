@@ -17,11 +17,13 @@ header
 }
 
 ul{
-  
-  display: flex;
+ display: flex;
   gap: 48px;
   list-style: none;
   margin: 0;
  padding: 0;
- 
+}
+ul li a {
+  color: #1f1534
+  text-decoration: none;
 }
